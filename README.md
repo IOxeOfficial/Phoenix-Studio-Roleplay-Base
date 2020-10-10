@@ -1,2 +1,2 @@
 # Phoenix-Studio-Roleplay-Base
-En desarrollo una base de roleplay serio. ESP
+https://trello.com/b/XVNryBBn/phoenix-studio-dev
